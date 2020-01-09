@@ -273,7 +273,7 @@ profile_variables:
   
   profile_time_end:
     comment:           Timestamp corresponding to the end of the profile
-    long_name:         Profile Start Time
+    long_name:         Profile End Time
     observation_type:  calculated
     platform:          platform
     standard_name:     time
